@@ -27,7 +27,7 @@
     border-radius: 20px;
     z-index: 1;
     margin: auto;
-    background-color: #2b2828;
+    background: rgba(76, 175, 80, 0.3)
     color: white;
     text-align: center;
    }
